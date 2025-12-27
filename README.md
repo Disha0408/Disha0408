@@ -54,7 +54,7 @@
 
 As a versatile Information Technology Engineer and Full-Stack Developer, I specialize in Cloud Computing, Artificial Intelligence/Machine Learning, and high-quality streaming technologies. With a proven track record of driving innovation, I am committed to leveraging advanced AI solutions to boost productivity and foster creative problem-solving in technology. My passion for pushing the boundaries of modern technology equips me to deliver exceptional results in complex and dynamic environments.
 
-<h3 align="center">Git Stats</h3>
+<!-- <h3 align="center">Git Stats</h3>
 <div align="center">
  <img src="https://streak-stats.demolab.com?user=DishaRaut&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
 
@@ -234,7 +234,7 @@ As a versatile Information Technology Engineer and Full-Stack Developer, I speci
 <p align="center">
   <img align="center" src="https://leetcard.jacoblin.cool/rafikshah2272?border=0&radius=20"/>
 </p>
-
+ -->
 
 <h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
 
