@@ -140,7 +140,7 @@ As a versatile Information Technology Engineer and Full-Stack Developer, I speci
 
 <!-- [![Repography](https://reporoster.com/stars/dark/RAFIKSHA/RAFIKSHA)](https://github.com/RAFIKSHA/RAFIKSHA)-->
 
-<details>
+<!-- <details>
   <summary><img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;GitHub Star History for RAFIKSHA&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /></summary>
 
   <h2>Star History Chart</h2>
@@ -155,12 +155,12 @@ As a versatile Information Technology Engineer and Full-Stack Developer, I speci
   <summary style="font-size: 1.17em; font-weight: bold;">🏆 GitHub Profile Trophy</summary>
   <br>
   <img src="https://github-profile-trophy.vercel.app/?username=RAFIKSHA&no-frame=true&theme=darkhub" alt="GitHub Profile Trophy">
-</details>
+</details> -->
 
 
 
 
-</div>
+<!-- </div>
 
 <h2 align="center">Socials Stats</h2>
 <div align="center">
@@ -201,10 +201,10 @@ As a versatile Information Technology Engineer and Full-Stack Developer, I speci
     </a>
   </h3>-->
 
-</div>
+<!-- </div>
 
 <table>
-  <tr>
+  <tr> --> -->
     <!-- Discord Widget Column -->
     <!-- <td align="center" style="border: none;">
       <a href="https://discord.gg/YdDyV6QqEN">
@@ -221,10 +221,12 @@ As a versatile Information Technology Engineer and Full-Stack Developer, I speci
         <img src="https://lanyard.cnrad.dev/api/424279823817375746" alt="Discord Presence">
       </a>
     </td>
-  </tr>
-</table>
---> 
+ 
 
+
+<!-- 
+ </tr>
+</table>
 
 <h3 align="center">YouTube Stats</h3>
 
@@ -233,8 +235,8 @@ As a versatile Information Technology Engineer and Full-Stack Developer, I speci
 <h3 align="center">Leetcode Stats</h3>
 <p align="center">
   <img align="center" src="https://leetcard.jacoblin.cool/rafikshah2272?border=0&radius=20"/>
-</p>
- -->
+</p> -->
+
 
 <h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
 
