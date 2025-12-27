@@ -430,19 +430,19 @@ As a versatile Information Technology Engineer and Full-Stack Developer, I speci
       <td align="center" style="border: none;">
         <img src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" alt="Pandas" width="80" height="50"/><br>Pandas
       </td>
-      <td align="center" style="border: none;">
+      <!-- <td align="center" style="border: none;">
 <!--         <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="TensorFlow" width="50" height="50"/> -->
-        <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Tensorflow.gif" alt="TensorFlow" width="80" height="70" /><br>TensorFlow
+        <!-- <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Tensorflow.gif" alt="TensorFlow" width="80" height="70" /><br>TensorFlow
       </td>
       <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="50" height="50"/><br>PyTorch
-      </td>
+      </td> --> 
     </tr>
   </tbody>
  </table>
 </div>
 
-<div align="center">
+<!-- <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
@@ -463,7 +463,7 @@ As a versatile Information Technology Engineer and Full-Stack Developer, I speci
     </tr>
   </tbody>
 </table>
-</div>
+</div> -->
 
 
 <h3 align="center"> AI Tools & Prompt Engineering</h3>
@@ -480,13 +480,13 @@ As a versatile Information Technology Engineer and Full-Stack Developer, I speci
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="50" height="50" alt="ChatGPT"/><br>ChatGPT
       </td>
        <td align="center" style="border: none;">
-        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" width="50" height="50" alt="Claude (Anthropic)"/><br>Claude (Anthropic)
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" width="50" height="50" alt="Claude (Anthropic)"/><br>Claude
       </td>
       <td align="center" style="border: none;">
 <!--         <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" width="50" height="50" alt="Google Gemini"/> -->
         <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Gemini.gif" alt="Gemini" width="80" height="80" /><br>Google Gemini
       </td>
-      <td align="center" style="border: none;">
+      <!-- <td align="center" style="border: none;">
         <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" height="50" alt="Hugging Face"/><br>Hugging Face
       </td>
       <td align="center" style="border: none;">
@@ -494,13 +494,13 @@ As a versatile Information Technology Engineer and Full-Stack Developer, I speci
       </td>
       <td align="center" style="border: none;">
         <img src="https://asset.brandfetch.io/idfDTLvPCK/idbbhgStc3.svg" width="80" height="50" alt="Cohere"/><br>Cohere
-      </td>
+      </td> -->
     </tr>
   </tbody>
 </table>
 </div>
 
-<h3 align="center">Streaming & Video Editing</h3>
+<!-- <h3 align="center">Streaming & Video Editing</h3>
 
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
@@ -520,9 +520,9 @@ As a versatile Information Technology Engineer and Full-Stack Developer, I speci
     </tr>
   </tbody>
 </table>
-</div>
+</div> -->
 
-<div align="center">
+<!-- <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
@@ -537,9 +537,9 @@ As a versatile Information Technology Engineer and Full-Stack Developer, I speci
     </tr>
   </tbody>
 </table>
-</div>
+</div> -->
 
-<div align="center">
+<!-- <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
@@ -560,7 +560,7 @@ As a versatile Information Technology Engineer and Full-Stack Developer, I speci
     </tr>
   </tbody>
 </table>
-</div>
+</div> -->
 
 
 <!-- 
