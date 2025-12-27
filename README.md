@@ -205,25 +205,7 @@ As a versatile Information Technology Engineer and Full-Stack Developer, I speci
 
 <table>
   <tr>  -->
-     Discord Widget Column 
-     <td align="center" style="border: none;">
-      <a href="https://discord.gg/YdDyV6QqEN">
-        <img src="https://invidget.switchblade.xyz/YdDyV6QqEN" alt="Discord Widget">
-      </a>
-    </td>
-    <!-- Discord Banner Column 
-    <td align="center" style="border: none;">
-      <img src="https://discord.com/api/guilds/532904444912861194/widget.png?style=banner3" alt="Discord Banner 3"/>
-    </td>
-    <!-- Discord Presence Column -->
-    <!-- <td align="center" style="border: none;">
-      <a href="https://discord.com/users/424279823817375746">
-        <img src="https://lanyard.cnrad.dev/api/424279823817375746" alt="Discord Presence">
-      </a>
-    </td>-->
- 
-
-
+   
 <!-- 
  </tr>
 </table>
