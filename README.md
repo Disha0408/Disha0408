@@ -628,13 +628,13 @@ As a versatile Information Technology Engineer and Full-Stack Developer, I speci
 <table align="center">
   <tr>
     <td colspan="3" align="center">
-      <a href="mailto:rafikshah3262@gmail.com" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=rafikshah3262@gmail.com&size=square" alt="Kenan Gain" style="margin: 10px;">
+      <a href="mailto:disharaut200408@gmail.com" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=disharaut200408@gmail.com&size=square" alt="Kenan Gain" style="margin: 10px;">
       </a>
     </td>
     <td align="center">
-  <a href="https://wa.me/917028352298" target="_blank">
-    <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-7028352298&size=square" alt="India-+91-702-835-2298" style="margin: 10px;">
+  <a href="https://wa.me/917066472847" target="_blank">
+    <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-7066472847&size=square" alt="India-+91-706-647-2847" style="margin: 10px;">
   </a>
 </td>
 
@@ -648,7 +648,7 @@ As a versatile Information Technology Engineer and Full-Stack Developer, I speci
 <h3>
 <div align="center">
   
-⭐️ From [RAFIKSHA](https://github.com/RAFIKSHA) | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
+⭐️ From [Disha](https://github.com/RAFIKSHA) | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
 
 
 </div>
