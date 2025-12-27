@@ -648,7 +648,7 @@ As a versatile Information Technology Engineer and Full-Stack Developer, I speci
 <h3>
 <div align="center">
   
-⭐️ From [Disha](https://github.com/RAFIKSHA) | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
+⭐️ From [Disha]([https://github.com/Disha0408]) | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
 
 
 </div>
